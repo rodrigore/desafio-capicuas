@@ -18,7 +18,6 @@ class CapicuaTest extends TestCase
     public function capicuas()
     {
         return [
-            [57, 363],
             [11, 11],
             [12, 33],
             [13, 44],
